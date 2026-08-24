@@ -1,0 +1,35 @@
+INSERT INTO Users
+    (full_name, email, role, balance, password_hash)
+VALUES
+    ('Arun Kumar', 'arun.kumar@example.com', 'CLIENT', 50000.00, 'demo_hash_001'),
+    ('Meera Nair', 'meera.nair@example.com', 'CLIENT', 30000.00, 'demo_hash_002'),
+    ('Vishal Menon', 'vishal.menon@example.com', 'CLIENT', 45000.00, 'demo_hash_003'),
+    ('Priya Sharma', 'priya.sharma@example.com', 'CLIENT', 25000.00, 'demo_hash_004'),
+    ('Karthik Raj', 'karthik.raj@example.com', 'CLIENT', 60000.00, 'demo_hash_005'),
+    ('Sneha Thomas', 'sneha.thomas@example.com', 'CLIENT', 35000.00, 'demo_hash_006'),
+    ('Aditya Verma', 'aditya.verma@example.com', 'CLIENT', 40000.00, 'demo_hash_007'),
+    ('Neha Kapoor', 'neha.kapoor@example.com', 'CLIENT', 28000.00, 'demo_hash_008'),
+    ('Rohan Das', 'rohan.das@example.com', 'CLIENT', 55000.00, 'demo_hash_009'),
+    ('Aishwarya Iyer', 'aishwarya.iyer@example.com', 'CLIENT', 32000.00, 'demo_hash_010'),
+
+    ('Rahul Menon', 'rahul.menon@example.com', 'FREELANCER', 10000.00, 'demo_hash_011'),
+    ('Ananya Das', 'ananya.das@example.com', 'FREELANCER', 15000.00, 'demo_hash_012'),
+    ('Akhil Joseph', 'akhil.joseph@example.com', 'FREELANCER', 12000.00, 'demo_hash_013'),
+    ('Diya Krishnan', 'diya.krishnan@example.com', 'FREELANCER', 18000.00, 'demo_hash_014'),
+    ('Nikhil Raj', 'nikhil.raj@example.com', 'FREELANCER', 9000.00, 'demo_hash_015'),
+    ('Fathima Ali', 'fathima.ali@example.com', 'FREELANCER', 22000.00, 'demo_hash_016'),
+    ('Sanjay Kumar', 'sanjay.kumar@example.com', 'FREELANCER', 14000.00, 'demo_hash_017'),
+    ('Keerthi Suresh', 'keerthi.suresh@example.com', 'FREELANCER', 17000.00, 'demo_hash_018'),
+    ('Vivek Anand', 'vivek.anand@example.com', 'FREELANCER', 11000.00, 'demo_hash_019'),
+    ('Amal George', 'amal.george@example.com', 'FREELANCER', 13000.00, 'demo_hash_020'),
+    ('Ishita Roy', 'ishita.roy@example.com', 'FREELANCER', 16000.00, 'demo_hash_021'),
+    ('Varun Nair', 'varun.nair@example.com', 'FREELANCER', 8000.00, 'demo_hash_022'),
+    ('Lakshmi Menon', 'lakshmi.menon@example.com', 'FREELANCER', 19000.00, 'demo_hash_023'),
+    ('Harish Babu', 'harish.babu@example.com', 'FREELANCER', 12500.00, 'demo_hash_024'),
+    ('Riya Mathew', 'riya.mathew@example.com', 'FREELANCER', 15500.00, 'demo_hash_025'),
+    ('Joel Thomas', 'joel.thomas@example.com', 'FREELANCER', 10500.00, 'demo_hash_026'),
+    ('Mehul Shah', 'mehul.shah@example.com', 'FREELANCER', 21000.00, 'demo_hash_027'),
+    ('Swathi Rao', 'swathi.rao@example.com', 'FREELANCER', 14500.00, 'demo_hash_028'),
+
+    ('Admin User', 'admin@gigtrust.com', 'ADMIN', 0.00, 'demo_hash_029'),
+    ('System Admin', 'sysadmin@gigtrust.com', 'ADMIN', 0.00, 'demo_hash_030');
